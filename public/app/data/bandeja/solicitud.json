@@ -1,0 +1,12 @@
+{
+	"nombre_cliente" : "Danny Suarez",
+	"direccion" : "Anaco, Edo. Anzoategui, Venezuela",
+	"telefono_movil" : "+58(424)841-15-54",
+	"telefono_fijo": "+58(424)841-15-54",
+	"dni" : 23589144,
+	"email" : "dsuarezlogans@gmail.com",
+	"empleador" : "Empleador nombre",
+	"telefono_empleador" : "+58(424)841-15-54",
+	"direccion_empleador" : "Anaco, Edo. Anzoategui, Venezuela",
+	"estado_solicitud" : "estado_solicitud"
+}

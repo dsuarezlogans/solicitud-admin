@@ -1,0 +1,51 @@
+{
+    "listaTareas": [{
+        "idTarea": "598",
+        "nombreTarea": "Dictamina Reclamacion",
+        "instancia": "1651",
+        "datos": {
+            "sol_NumeroSolicitud": "SOL084",
+            "sol_NumeroPoliza": "POL0001",
+            "sol_ClaveAsegurado": "ASE001",
+            "sol_NombreAsegurado": "Carlos Martin",
+            "sol_FechaSolicitud": "2016-12-02",
+            "sol_EstadoSolicitud": "Completado"
+        }
+    }, {
+        "idTarea": "600",
+        "nombreTarea": "Dictamina Reclamacion",
+        "instancia": "1652",
+        "datos": {
+            "sol_NumeroSolicitud": "SOL085",
+            "sol_NumeroPoliza": "POL0002",
+            "sol_ClaveAsegurado": "ASE003",
+            "sol_NombreAsegurado": "Alfonso Martinez",
+            "sol_FechaSolicitud": "2016-12-02",
+            "sol_EstadoSolicitud": "Cancelado"
+        }
+    }, {
+        "idTarea": "601",
+        "nombreTarea": "Dictamina Reclamacion",
+        "instancia": "1653",
+        "datos": {
+            "sol_NumeroSolicitud": "SOL086",
+            "sol_NumeroPoliza": "POL0003",
+            "sol_ClaveAsegurado": "ASE004",
+            "sol_NombreAsegurado": "Danny Suarez",
+            "sol_FechaSolicitud": "2016-12-06",
+            "sol_EstadoSolicitud": "Nuevo"
+        }
+    }, {
+        "idTarea": "602",
+        "nombreTarea": "Dictamina Reclamacion",
+        "instancia": "1654",
+        "datos": {
+            "sol_NumeroSolicitud": "SOL087",
+            "sol_NumeroPoliza": "POL0004",
+            "sol_ClaveAsegurado": "ASE005",
+            "sol_NombreAsegurado": "Jose Leal",
+            "sol_FechaSolicitud": "2016-12-06",
+            "sol_EstadoSolicitud": "En Proceso"
+        }
+    }]
+}
